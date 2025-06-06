@@ -7,6 +7,11 @@ This project presents an interactive Tableau dashboard analyzing student academi
 - **Texas Christian University (TCU)**  
 
 Using over **7 years of institutional data** (Jan 2018 – Dec 2024), this dashboard delivers decision-ready insights to support academic forecasting, intervention design, and equity strategy development.
+---
+## 📥 View Full Dashboard Online
+
+> 📊 [Click here to view the full dashboard on Tableau Public](https://public.tableau.com/app/profile/durga.pravallika.kuchipudi7399/viz/Book2_17432564557990/MainDashboard)
+
 
 ---
 
@@ -80,11 +85,7 @@ This dashboard enables institutions and policy teams to:
 
 ---
 
-## 📥 View Full Dashboard Online
 
-> 📊 [Click here to view the full dashboard on Tableau Public](https://public.tableau.com/app/profile/durga.pravallika.kuchipudi7399/viz/Book2_17432564557990/MainDashboard)
-
----
 
 ## 👩‍💻 About the Author
 
